@@ -5,4 +5,4 @@
 
 ### SQL
 
-* [SQL-Island](https://sql-island.informatik.uni-kl.de) - Spielerisch SQL lernen
+* [SQL Island](https://sql-island.informatik.uni-kl.de) - Universität Kaiserslautern (Interactive)
